@@ -17,6 +17,7 @@ body {
   font-size: 1.2em;
 }
 
+<<<<<<< HEAD
 a:link {
   color:green;
 }
@@ -25,14 +26,19 @@ a:visited {
   color: purple;
 }
 
+=======
+>>>>>>> origin
 a:hover {
   color: blue;
 }
 
+<<<<<<< HEAD
 a:active {
   color: blue;
 }
 
+=======
+>>>>>>> origin
 .table {
   padding-left: 300px;
 }
@@ -45,9 +51,14 @@ a:active {
   margin-bottom: 5px;
 }
 
+<<<<<<< HEAD
 #list {
   background-color: #e9e5dc;
   font-family: italic;
+=======
+.list {
+  background-color: #e9e5dc;
+>>>>>>> origin
   border-radius: 5px;
   margin-top: 5px;
   padding-left: 30px;
