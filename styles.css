@@ -1,0 +1,41 @@
+html {
+  background-image: url('http://i.stack.imgur.com/jGlzr.png');
+  display: inline-block;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  font-family: cursive;
+  padding: 20px 30px;
+  border-radius: 5px;
+  background-color: burlywood;
+  margin: 30px auto;
+  max-width: 960px;
+  font-size: 1.2em;
+}
+
+a:hover {
+  color: blue;
+}
+
+.table {
+  padding-left: 300px;
+}
+
+.p {
+  background-color: #e9e5dc;
+  border-radius: 5px;
+  padding: 8px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.list {
+  background-color: #e9e5dc;
+  border-radius: 5px;
+  margin-top: 5px;
+  padding-left: 30px;
+}
